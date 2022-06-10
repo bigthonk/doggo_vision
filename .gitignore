@@ -134,4 +134,4 @@ dmypy.json
 .pyre/
 
 # dataset for snap/felix
-experiments/felix/Grocery_and_Gourmet_Food_5.json.gz
+experiments/felix/nlp_test/Grocery_and_Gourmet_Food_5.json.gz
