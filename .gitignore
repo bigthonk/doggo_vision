@@ -135,3 +135,4 @@ dmypy.json
 
 # dataset for snap/felix
 experiments/felix/nlp_test/Grocery_and_Gourmet_Food_5.json.gz
+experiments/felix/rnn_test/df_clean.csv
